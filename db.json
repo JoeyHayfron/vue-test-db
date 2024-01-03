@@ -1,4 +1,4 @@
-[
+{events:[
   {
     id: 59389203,
     category: 'animal welfare',
@@ -43,4 +43,4 @@
     petsAllowed: true,
     organizer: 'Kat Laydee'
   }
-]
+]}
